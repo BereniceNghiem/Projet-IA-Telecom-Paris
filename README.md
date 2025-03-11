@@ -9,7 +9,9 @@ Blurring artefacts are common in microscopy images. Such artefacts are sometimes
 ## Sources
 [1]
 https://github.com/jiangdat/COMI
+
 [2]
 https://github.com/casus/pi-ddpm
+
 [3]
 https://data.mendeley.com/datasets/m3jxgb54c9/4
